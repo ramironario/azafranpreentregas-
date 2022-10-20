@@ -1,0 +1,117 @@
+*{
+    margin: auto;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+.bg-propio{
+    background-color: rgb(169, 215, 200);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+    justify-content: space-evenly;
+}
+.navbar-brand{
+    width: 9em;
+    height: 6em;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+footer{ 
+    margin-top: auto;
+
+}
+.bg-propio1{
+    background-color: rgba(225, 237, 236, 0.819);
+}
+.folletoi{
+    width: 30em;
+    height: 22em;
+    margin-top: 3em;
+    margin-left: 4em;
+}
+.listai{
+    margin-left: 2em;
+    margin-top: 3em;
+}
+.pcontacto{
+    font-size: 2em;
+    font-weight: bold;
+}
+.especies{
+    font-size: 1.5em;
+}
+.navfooter{
+    height: 4em;
+    justify-content: space-evenly;
+    margin-top: 2em;
+}
+.navbar-nav{
+    margin-top: 1em;
+}
+.navbar-footer {
+    width: 5em;
+    height: 3em;
+    text-decoration: none;
+    justify-content: space-evenly;
+}
+.nav{
+    text-align: row;
+}
+.nav-item{
+    width: 2em;
+    height: 2em;
+}
+.pventas{
+    font-weight: bold;
+    margin-top: 2em;
+    font-size: 2em;
+}
+p{
+    margin-top: 2em;
+    font-size: 1.5em;
+}
+.logonosotros{
+    margin-top: 2em;
+}
+.logoFAQ{
+    width: 45em;
+    height: 38em;
+    margin-top: 2em;
+    margin-left: 6em;
+}
+.listafaq{
+    margin-top: 2em;
+
+}
+.pindex{
+    font-size: 2em;
+    font-weight: bold;
+}
+.pnosotros{
+    font-size: 2em;
+    font-weight: bold;
+}   
+.folletocontacto{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 12em;
+    width: 45em;
+    height: 28em;
+}
+.flex-form{
+    margin-top: 1em;
+
+}
+.plista{
+    font-size: 1em;
+    font-weight: bold;
+}
+.pventas{
+    font-size: 1,3em;
+}
+
+/*# sourceMappingURL=style.css.map */
