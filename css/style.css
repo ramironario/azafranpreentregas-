@@ -51,6 +51,10 @@ footer{
 }
 .navbar-nav{
     margin-top: 1em;
+    margin-left: 12em;
+    text-decoration: none;
+    justify-content: space-evenly;
+    align-items: center;
 }
 .navbar-footer {
     width: 5em;
@@ -113,5 +117,32 @@ p{
 .pventas{
     font-size: 1,3em;
 }
-
+.botonwp{
+    position: fixed;
+  width: 4em;
+  height: 4em;
+  right: 1.5em;
+  bottom: 4em; 
+  z-index: 999;
+}
+.botonwp:hover{
+    transform: scale(1.2);
+    transition: 0.3s;
+}
+.ig{
+ width: 2.5em;
+ height: 2.5em;
+}
+.face{
+    width: 2.5em;
+ height: 2.5em;
+}
+.correo{
+    width: 2.5em;
+ height: 2.5em;
+}
+.cp{
+    width: 2.5em;
+ height: 2.5em;
+}
 /*# sourceMappingURL=style.css.map */
